@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T12:25:26 IST" name="Default suite" finished-at="2023-01-20T12:25:29 IST" duration-ms="3082">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T12:25:26 IST" name="Default test" finished-at="2023-01-20T12:25:29 IST" duration-ms="3082">
+      <class name="restassured.getandpostexamples">
+        <test-method signature="testpost()[pri:0, instance:restassured.getandpostexamples@6da21078]" started-at="2023-01-20T12:25:26 IST" name="testpost" finished-at="2023-01-20T12:25:29 IST" duration-ms="3034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpost -->
+      </class> <!-- restassured.getandpostexamples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
